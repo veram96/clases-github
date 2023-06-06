@@ -10,6 +10,6 @@ Actividad de bienvenida al curso para reafirmar los aprendido en algún curso pr
       - ¿Qué te gusta hacer en tus tiempos libres?
       - Te sientes cómodo trabajando con *git* y *Github*?
 3. Agregar a los siguientes usuarios al repo:
-      - `mavera@liverpool.com`
+      - `mavera@liverpool.com.mx`
       - `eczepedah@liverpool.com.mx`
       - `shermidar@liverpool.com.mx`
