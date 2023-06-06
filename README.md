@@ -1,5 +1,7 @@
 # Actividad 0
 Actividad de bienvenida al curso para reafirmar los aprendido en algún curso previo
+> **Note**
+> Tratar de crear y modificar los archivos desde VSCode.
 
 # Instrucciones
 1. Crear un repositorio privado en Github con tu cuenta corporativa
