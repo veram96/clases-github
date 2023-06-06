@@ -4,7 +4,7 @@ Actividad de bienvenida al curso para reafirmar los aprendido en algún curso pr
 > Tratar de crear y modificar los archivos desde VSCode.
 
 # Instrucciones
-1. Crear un repositorio privado en Github con tu cuenta corporativa
+1. Crear un **repositorio privado** en Github con tu cuenta corporativa
       - nombre: `curso-github`
 2. El repositorio debe contener un archivo `README.md` donde pondrás las siguientes preguntas con su respuesta:
       - Mi nombre es `Tu nombre`
@@ -15,3 +15,6 @@ Actividad de bienvenida al curso para reafirmar los aprendido en algún curso pr
       - `mavera@liverpool.com.mx`
       - `eczepedah@liverpool.com.mx`
       - `shermidar@liverpool.com.mx`
+
+# Recursos
+[¿Cómo crear un repositorio?](https://docs.github.com/es/get-started/quickstart/create-a-repo)
