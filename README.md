@@ -9,6 +9,7 @@ los que tiene presencia organizados por continente.
 `git add` <br/>
 `git commit -m` <br/>
 `git push origin <branch>`
+`git merge <branch>` <br/>
 
 ## 1. Crear el módulo para los países americanos
 Vamos a simular que el módulo para los países américanos ya está listo y en producción (branch `main`).
@@ -42,3 +43,10 @@ Ahora comenzamos a trabajar en el módulo de países europeos
 Se recibe feedback de los clientes informando que hay un error en el 
 módulo de los países americanos puesto que se esta mostrando un país que no
 corresponde. El jefe te pide realizar un **hot-fix** directo en la rama `main`.
+
+## 4. Realiza el hot-fix en la branch main
+
+## 5. Terminando la branch `actividad-1`
+1. Terminar de llenar la lista de los paises del archivo `europa`.
+2. Realizar el commit.
+3. Unir la branch `actividad-1` a la branch `main`.
