@@ -18,3 +18,5 @@ Actividad de bienvenida al curso para reafirmar los aprendido en algún curso pr
 
 # Recursos
 [¿Cómo crear un repositorio?](https://docs.github.com/es/get-started/quickstart/create-a-repo)
+
+
