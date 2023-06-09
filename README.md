@@ -24,9 +24,13 @@ Entenderemos como interactuar con estas secciones mediante comandos *git*
 ## Preparando el ambiente
 1. Crear un **repositorio privado** en Github con tu cuenta corporativa **(5particiapciones)**
       - nombre: `curso-introduccion-github`
-2. En tu máquina crear una carpeta vacía
+2. Agregar a los siguientes usuarios al repo:
+      - `mavera@liverpool.com.mx`
+      - `eczepedah@liverpool.com.mx`
+      - `shermidar@liverpool.com.mx`
+3. En tu máquina crear una carpeta vacía
       - nombre: `curso-introduccion-github`
-3. Abrir la carpeta con VS Code.
+4. Abrir la carpeta con VS Code.
 
 ## Actividad2
 1. Inizializar el *git repository* con el comando ¿? **(1participación)**
@@ -45,8 +49,5 @@ Agregas un código muy importante en `file2.txt` pero por error eliminaste infor
 que no debías en `file1.txt`<br/>
 ¿Cómo recuperar la última versión (snapshot) de `file1.txt`? **(5 participaciones)**
 
+## Guarda tus cambioes en Github
 
-3. Agregar a los siguientes usuarios al repo:
-      - `mavera@liverpool.com.mx`
-      - `eczepedah@liverpool.com.mx`
-      - `shermidar@liverpool.com.mx`
