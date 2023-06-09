@@ -49,5 +49,5 @@ Agregas un código muy importante en `file2.txt` pero por error eliminaste infor
 que no debías en `file1.txt`<br/>
 ¿Cómo recuperar la última versión (snapshot) de `file1.txt`? **(5 participaciones)**
 
-## Guarda tus cambioes en Github
+## Guarda tus cambios en Github
 
