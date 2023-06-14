@@ -9,7 +9,8 @@ protección de branches
       - `mavera@liverpool.com.mx`
       - `eczepedah@liverpool.com.mx`
       - `shermidar@liverpool.com.mx`
-3. Subir un archivo README.md a la branch `main` con el contenido que deseen
+3. Crear archivo README.md con el contenido que deseen y 
+hacer push a la branch `main` 
 4. Aplicar las siguientes reglas de protección:
       - No permitir hacer push directo a main
       - Requerir al menos 1 approval
